@@ -1,0 +1,12 @@
+
+nerve_ending.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+nerve_ending
+  rotate: false
+  xy: 1, 1
+  size: 192, 64
+  orig: 192, 64
+  offset: 0, 0
+  index: -1

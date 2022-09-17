@@ -1,0 +1,12 @@
+
+monstro.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+monstro
+  rotate: false
+  xy: 1, 1
+  size: 400, 373
+  orig: 400, 373
+  offset: 0, 0
+  index: -1

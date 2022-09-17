@@ -1,0 +1,19 @@
+
+isaac.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+isaac_body
+  rotate: false
+  xy: 1, 1
+  size: 256, 32
+  orig: 256, 32
+  offset: 0, 0
+  index: -1
+isaac_head
+  rotate: false
+  xy: 259, 1
+  size: 256, 32
+  orig: 256, 32
+  offset: 0, 0
+  index: -1
